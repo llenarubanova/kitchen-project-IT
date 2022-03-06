@@ -1,0 +1,399 @@
+.title {
+    width: 1890px;
+    height: 1080px;
+    background: #BEB0C2; 
+    display: block;
+
+}
+
+h1 {
+
+    width:974px;
+    height:165px ;
+     margin-left:475px;
+     margin-right: 459px;
+     padding-top: 120px;
+     text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 190px;
+    color: #3D0F3B;
+}
+
+h2 {
+    position: absolute;
+width: 1000px;
+height: 74px;
+left: 459px;
+top: 500px;
+text-align: center;
+
+font-family: Ubuntu;
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+line-height: 69px;
+
+color: #3D0F3B;
+
+}
+
+/* Header */
+.header {
+    width: 544px;
+    padding: 30px;
+    top: 49px;
+    margin-left: 1370px;
+    margin-right: 200px;
+    
+}
+
+
+/* Nav */
+.nav {
+    font-size: 35px;
+}
+
+.nav__link {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 15px;
+    position: relative;
+
+    color:#3D0F3B;
+    text-decoration: none;
+
+    transition: color 0.2s linear;
+}
+
+.nav__link:after {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 3px;
+
+   background-color: #3D0F3B;
+
+   position: absolute;
+   top:100%;
+   left: 0;
+   z-index: 1;
+}
+
+.nav__link:hover {
+    color:azure;
+}
+
+
+/* Button */
+.btn {
+    display: inline-block;
+    vertical-align: top;
+    padding: 27px 34px;
+    position: absolute;
+width: 421px;
+height: 121px;
+left: 735px;
+top: 760px;
+text-align: center;
+background: #9A84A4;
+
+font-family: Ubuntu;
+font-style: normal;
+font-weight: 50;
+width: 310px;
+height: 77px;
+left: 765px;
+top: 756px;
+font-size: 60px;
+z-index: 1px;
+line-height: 65px;
+text-align: center;
+text-decoration: none;
+color: #3D0F3B;
+}
+
+
+.btn:hover {
+   background-color: #9A84A4;
+   color: #fff;
+
+}
+
+
+.btn1 {
+    display: inline-block;
+    vertical-align: top;
+    padding: 18px 80px;
+    position: absolute;
+width: 295px;
+height: 71px;
+left: 198px;
+top: 906px;
+background: #9A84A4;
+
+position: absolute;
+width: 121px;
+height: 62px;
+margin-left: 11px;
+top: 1930px;
+
+font-family: Ubuntu;
+font-style: normal;
+font-weight: normal;
+text-align: center;
+font-size: 60px;
+line-height: 69px;
+
+color: #3D0F3B;
+
+}
+
+.btn1:hover {
+    background-color: #9A84A4;
+   color: #fff;
+}
+
+.btn2 {
+    display: inline-block;
+    vertical-align: top;
+    padding: 14px 80px;
+    position: absolute;
+width: 295px;
+height: 71px;
+left: 797px;
+top: 901px;
+
+position: absolute;
+width: 151px;
+height: 70px;
+margin-left: -2px;
+top: 1930px;
+
+font-family: Ubuntu;
+font-style: normal;
+font-weight: normal;
+text-align: center;
+font-size: 60px;
+line-height: 69px;
+
+background: #9A84A4;
+
+color: #3D0F3B;
+}
+
+.btn2:hover {
+    background-color: #9A84A4;
+   color: #fff;
+}
+
+.btn3 {
+    display: inline-block;
+    vertical-align: top;
+    padding: 14px 80px;
+    position: absolute;
+
+    position: absolute;
+width: 295px;
+height: 70.59px;
+left: 1397px;
+top: 902.41px;
+
+background: #9A84A4;
+
+position: absolute;
+width: 139px;
+height: 71px;
+margin-left: -2px;
+top: 1930px;
+
+font-family: Ubuntu;
+font-style: normal;
+font-weight: normal;
+text-align: center;
+text-decoration: none;
+font-size: 60px;
+line-height: 69px;
+
+color: #3D0F3B;
+
+} 
+
+.btn3:hover {
+    background-color: #9A84A4;
+   color: #fff;
+}
+
+.tittle {
+    width: 1890px;
+    height: 1080px;
+    background: #fff; 
+    display: block;
+
+}
+
+/* About */
+
+.about {
+    display: flex;
+    justify-content: space-between;
+}
+
+.about__item {
+    width: 20%;
+}
+
+.container1 {
+    position: absolute;
+width: 434px;
+height: 695px;
+left: 128px;
+top: 1280px;
+}
+
+.container2 {
+    position: absolute;
+width: 434px;
+height: 695px;
+left: 728px;
+top: 1280px;
+}
+
+.container3 {
+    position: absolute;
+width: 449px;
+height: 695px;
+left: 1320px;
+top: 1280px;
+}
+
+.titttle {
+    width: 1890px;
+    height: 1080px;
+    background: #BEB0C2; 
+    display: block;
+
+}
+
+hh1 {
+width: 1400px;
+height: 165px;
+margin-left: 555px;
+padding-top: 200px;
+text-align: center;
+font-size: 120px;
+font-family: Ubuntu;
+font-style: normal;
+font-weight: normal;
+color: #3D0F3B;
+}
+
+.containerr {
+    position: absolute;
+width: 562px;
+height: 801px;
+left: 63px;
+margin-top: -850px;
+}
+
+.containerr1 {
+    width: 1008px;
+    height: 594px;
+    margin-left: 795px;
+    margin-top: -850px;
+}
+
+.containerr2 {
+    width: 1008px;
+    height: 594px;
+    margin-left: 1350px;
+    margin-top: -592px;
+}
+
+.btnn1 {
+    display: inline-block;
+    vertical-align: top;
+    padding: 18px 38px;
+    position: absolute;
+    width: 295px;
+    height: 71px;
+    left: 866px;
+    top: 1912px;
+    background: #9A84A4;
+    position: absolute;
+width: 295px;
+height: 71px;
+left: 843px;
+top: 2990px;
+
+font-family: Ubuntu;
+font-style: normal;
+font-weight: normal;
+text-decoration: none;
+text-align: center;
+font-size: 70px;
+line-height: 65px;
+
+color: #3D0F3B;
+}
+
+.btnn1:hover {
+    background-color: #9A84A4;
+   color: #fff;
+}
+
+.btnn2 {
+    display: inline-block;
+    vertical-align: top;
+    padding: 18px 38px;
+    position: absolute;
+    width: 295px;
+    height: 71px;
+    left: 866px;
+    top: 1912px;
+    background: #9A84A4;
+    position: absolute;
+width: 295px;
+height: 71px;
+left: 1398px;
+top: 2990px;
+
+font-family: Ubuntu;
+font-style: normal;
+font-weight: normal;
+text-decoration: none;
+text-align: center;
+font-size: 70px;
+line-height: 65px;
+
+color: #3D0F3B;   
+}
+
+.btnn2:hover {
+    background-color: #9A84A4;
+   color: #fff;
+}
+
+.containeerr {
+    position: absolute;
+width: 320px;
+height: 100px;
+margin-left: 630px;
+top: 3160px;
+}
+
+.contaiineerr {
+    position: absolute;
+width: 320px;
+height: 100px;
+margin-left: 730px;
+top: 3160px;
+}
+
+.contaiinneerr {
+    position: absolute;
+width: 320px;
+height: 100px;
+margin-left: 880px;
+top: 3152px;
+}
+
